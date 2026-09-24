@@ -1,0 +1,15 @@
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore distribution folder
+build/
+
+# Ignore PyInstaller files
+*.spec
+
+# Ignore mods files while keeping its folders
+/mods/**
+!/mods/**/
+!/mods/**/.gitkeep
+
+# Keep mod configuration files
