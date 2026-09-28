@@ -15,7 +15,9 @@ modding profiles.
 View the [mods](MODS.md) list.
 
 ## Profiles
-
+- [**NightReign Enhanced**](profiles/nightreign-enhanced.me3): mod collection that refines the game experience
+through quality-of-life improvements, visual enhancements, and subtle gameplay tweaks,
+all while preserving the game's original spirit and identity.
 
 ## Requirements
 To get this configuration running, you will need to download the specific mod files from
