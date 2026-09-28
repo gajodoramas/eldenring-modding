@@ -13,3 +13,4 @@ build/
 !/mods/**/.gitkeep
 
 # Keep mod configuration files
+!/mods/*/seamless-coop/*rsc_settings.ini

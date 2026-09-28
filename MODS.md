@@ -13,6 +13,11 @@
       </tr>
     </thead>
     <tbody>
+    <td><a href="https://www.nexusmods.com/eldenringnightreign/mods/3">Seamless Co-op</a></td>
+        <td>NightReign</td>
+        <td><a href="profiles\nightreign-enhanced-coop.me3">nightreign-enhanced-coop.me3</a></td>
+        <td><a href="mods/nightreign/seamless-coop/">seamless-coop/</a></td>
+        <td><a href="mods/nightreign/seamless-coop/nrsc_settings.ini">seamless-coop/nrsc_settings.ini</a></td>
     </tbody>
   </table>
 </div>
