@@ -12,3 +12,9 @@ load_early=true
 
 [[natives]]
 path = "../mods/eldenring/unlock-fps/UnlockTheFps.dll"
+
+[[natives]]
+path = "../mods/eldenring/remove-black-bars/UltrawideFix.dll"
+
+[[packages]]
+path = "../mods/eldenring/widescreen-fix"

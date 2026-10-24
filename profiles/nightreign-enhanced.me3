@@ -12,3 +12,9 @@ load_early=true
 
 [[natives]]
 path = "../mods/nightreign/unlock-fps/UnlockTheFps.dll"
+
+[[natives]]
+path = "../mods/nightreign/remove-black-bars/UltrawideFix.dll"
+
+[[packages]]
+path = "../mods/nightreign/widescreen-fix"

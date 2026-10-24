@@ -24,6 +24,18 @@
         <td><a href="mods/eldenring/unlock-fps/">unlock-fps/</a></td>
         <td><a href="mods/eldenring/unlock-fps/UnlockTheFps/config.ini">unlock-fps/UnlockTheFps/config.ini</a></td>
       </tr>
+      <tr>
+        <td><a href="https://www.nexusmods.com/eldenring/mods/175">Remove Black Bars</a></td>
+        <td><a href="profiles/eldenring-enhanced.me3">Enhanced</a></td>
+        <td><a href="mods/eldenring/remove-black-bars/">remove-black-bars/</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.nexusmods.com/eldenring/mods/283">Widescreen Fix (21:9)</a></td>
+        <td><a href="profiles/eldenring-enhanced.me3">Enhanced</a></td>
+        <td><a href="mods/eldenring/widescreen-fix/">widescreen-fix/</a></td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </div>
