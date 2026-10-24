@@ -36,6 +36,12 @@
         <td><a href="mods/nightreign/widescreen-fix/">widescreen-fix/</a></td>
         <td></td>
       </tr>
+      <tr>
+        <td><a href="https://www.nexusmods.com/eldenringnightreign/mods/866">DPS Meter</a></td>
+        <td><a href="profiles/nightreign-enhanced.me3">Enhanced</a></td>
+        <td><a href="mods/nightreign/dps-meter/">dps-meter/</a></td>
+        <td><a href="mods/nightreign/dps-meter/NightreignDpsMeter.ini">dps-meter/NightreignDpsMeter.ini</a></td>
+      </tr>
     </tbody>
   </table>
 </div>

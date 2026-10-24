@@ -18,3 +18,4 @@ desktop.ini
 # Keep mod configuration files
 !/mods/*/seamless-coop/*rsc_settings.ini
 !/mods/*/unlock-fps/UnlockTheFps/config.ini
+!/mods/nightreign/dps-meter/NightreignDpsMeter.ini
