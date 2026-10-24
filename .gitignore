@@ -14,3 +14,4 @@ build/
 
 # Keep mod configuration files
 !/mods/*/seamless-coop/*rsc_settings.ini
+!/mods/*/unlock-fps/UnlockTheFps/config.ini

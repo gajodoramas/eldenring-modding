@@ -9,3 +9,6 @@ game = "eldenring"
 [[natives]]
 path = '../mods/eldenring/seamless-coop/nrsc.dll'
 load_early=true
+
+[[natives]]
+path = "../mods/eldenring/unlock-fps/UnlockTheFps.dll"

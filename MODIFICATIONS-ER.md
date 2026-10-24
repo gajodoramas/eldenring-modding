@@ -12,10 +12,18 @@
       </tr>
     </thead>
     <tbody>
-    <td><a href="https://www.nexusmods.com/eldenring/mods/510">Seamless Co-op</a></td>
+      <tr>
+        <td><a href="https://www.nexusmods.com/eldenring/mods/510">Seamless Co-op</a></td>
         <td><a href="profiles\eldenring-enhanced.me3">Enhanced</a></td>
         <td><a href="mods/eldenring/seamless-coop/">seamless-coop/</a></td>
         <td><a href="mods/eldenring/seamless-coop/ersc_settings.ini">seamless-coop/ersc_settings.ini</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.nexusmods.com/eldenring/mods/216">Unlock the framerate</a></td>
+        <td><a href="profiles/eldenring-enhanced.me3">Enhanced</a></td>
+        <td><a href="mods/eldenring/unlock-fps/">unlock-fps/</a></td>
+        <td><a href="mods/eldenring/unlock-fps/UnlockTheFps/config.ini">unlock-fps/UnlockTheFps/config.ini</a></td>
+      </tr>
     </tbody>
   </table>
 </div>

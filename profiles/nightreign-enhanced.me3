@@ -7,5 +7,8 @@ savefile = "NR0000.enhanced"
 game = "nightreign"
 
 [[natives]]
-path = '../mods/nightreign/seamless-coop/nrsc.dll'
+path = "../mods/nightreign/seamless-coop/nrsc.dll"
 load_early=true
+
+[[natives]]
+path = "../mods/nightreign/unlock-fps/UnlockTheFps.dll"
