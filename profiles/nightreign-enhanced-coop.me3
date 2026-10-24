@@ -1,9 +1,0 @@
-profileVersion = "v1"
-savefile = "NR0000.enhanced"
-
-[[supports]]
-game = "nightreign"
-
-[[natives]]
-path = '../mods/nightreign/seamless-coop/nrsc.dll'
-load_early=true

@@ -1,0 +1,11 @@
+# Elden Ring Enhanced profile
+
+profileVersion = "v1"
+savefile = "ER0000.enhanced"
+
+[[supports]]
+game = "eldenring"
+
+[[natives]]
+path = '../mods/eldenring/seamless-coop/nrsc.dll'
+load_early=true

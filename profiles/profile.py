@@ -22,9 +22,8 @@ class Profile:
     def __init__(self, name: str):
         self.__name = name
         self.__filepath = ROOT / "profiles" / f"{self.__name}.me3"
-        game, extension, *words = self.__name.split("-")
-        if "coop" in words:
-            self._set_savegame_extension(game, extension)
+        game, extension, *_ = self.__name.split("-")
+        self._set_savegame_extension(game, extension)
 
     def _set_savegame_extension(self, game: str, extension: str):
         coop_config_filepath = ROOT / "mods" / game / "seamless-coop" / f"{game[0]}rsc_settings.ini"

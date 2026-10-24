@@ -1,7 +1,7 @@
 """
 Elden Ring Modding
 
-NightReign Enhanced profile launcher.
+Elden Ring Enhanced profile launcher.
 """
 
 from pathlib import Path
