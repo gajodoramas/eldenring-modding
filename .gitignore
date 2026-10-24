@@ -7,6 +7,9 @@ build/
 # Ignore PyInstaller files
 *.spec
 
+# Ignore Google Drive Desktop files
+desktop.ini
+
 # Ignore mods files while keeping its folders
 /mods/**
 !/mods/**/
