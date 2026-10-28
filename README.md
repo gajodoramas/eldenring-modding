@@ -25,6 +25,8 @@ all while preserving the game's original spirit and identity.
 - [**Enhanced**](profiles/nightreign-enhanced.me3): mod collection that refines the game experience
 through quality-of-life improvements, visual enhancements, and subtle gameplay tweaks,
 all while preserving the game's original spirit and identity.
+- [**Chillreign**](profiles/nightreign-chillreign.me3): balance mod made for people who want to
+enjoy runs without needing to spend all their free time mastering the game.
 
 ## Requirements
 To get this configuration running, you will need to download the specific mod files from

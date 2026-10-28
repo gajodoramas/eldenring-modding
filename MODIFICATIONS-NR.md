@@ -14,33 +14,54 @@
     <tbody>
       <tr>
         <td><a href="https://www.nexusmods.com/eldenringnightreign/mods/3">Seamless Co-op</a></td>
-        <td><a href="profiles/nightreign-enhanced.me3">Enhanced</a></td>
+        <td>
+          <a href="profiles/nightreign-enhanced.me3">Enhanced</a>, 
+          <a href="profiles/nightreign-chillreign.me3">Chillreign</a>
+        </td>
         <td><a href="mods/nightreign/seamless-coop/">seamless-coop/</a></td>
         <td><a href="mods/nightreign/seamless-coop/nrsc_settings.ini">seamless-coop/nrsc_settings.ini</a></td>
       </tr>
       <tr>
         <td><a href="https://www.nexusmods.com/eldenringnightreign/mods/25">Unlock the framerate</a></td>
-        <td><a href="profiles/nightreign-enhanced.me3">Enhanced</a></td>
+        <td>
+          <a href="profiles/nightreign-enhanced.me3">Enhanced</a>, 
+          <a href="profiles/nightreign-chillreign.me3">Chillreign</a>
+        </td>
         <td><a href="mods/nightreign/unlock-fps/">unlock-fps/</a></td>
         <td><a href="mods/nightreign/unlock-fps/UnlockTheFps/config.ini">unlock-fps/UnlockTheFps/config.ini</a></td>
       </tr>
       <tr>
         <td><a href="https://www.nexusmods.com/eldenringnightreign/mods/35">Remove Black Bars</a></td>
-        <td><a href="profiles/nightreign-enhanced.me3">Enhanced</a></td>
+        <td>
+          <a href="profiles/nightreign-enhanced.me3">Enhanced</a>, 
+          <a href="profiles/nightreign-chillreign.me3">Chillreign</a>
+        </td>
         <td><a href="mods/nightreign/remove-black-bars/">remove-black-bars/</a></td>
         <td></td>
       </tr>
       <tr>
         <td><a href="https://www.nexusmods.com/eldenringnightreign/mods/161">Widescreen Fix (21:9)</a></td>
-        <td><a href="profiles/nightreign-enhanced.me3">Enhanced</a></td>
+        <td>
+          <a href="profiles/nightreign-enhanced.me3">Enhanced</a>, 
+          <a href="profiles/nightreign-chillreign.me3">Chillreign</a>
+        </td>
         <td><a href="mods/nightreign/widescreen-fix/">widescreen-fix/</a></td>
         <td></td>
       </tr>
       <tr>
         <td><a href="https://www.nexusmods.com/eldenringnightreign/mods/866">DPS Meter</a></td>
-        <td><a href="profiles/nightreign-enhanced.me3">Enhanced</a></td>
+        <td>
+          <a href="profiles/nightreign-enhanced.me3">Enhanced</a>, 
+          <a href="profiles/nightreign-chillreign.me3">Chillreign</a>
+        </td>
         <td><a href="mods/nightreign/dps-meter/">dps-meter/</a></td>
         <td><a href="mods/nightreign/dps-meter/NightreignDpsMeter.ini">dps-meter/NightreignDpsMeter.ini</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.nexusmods.com/eldenringnightreign/mods/942">Chillreign</a></td>
+        <td><a href="profiles/nightreign-chillreign.me3">Chillreign</a></td>
+        <td><a href="mods/nightreign/chillreign/">chillreign/</a></td>
+        <td></td>
       </tr>
     </tbody>
   </table>

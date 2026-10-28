@@ -7,3 +7,4 @@ python -m PyInstaller "..\\profiles\\eldenring-enhanced.py" --name "ELDEN RING E
 
 :: NightReign executables
 python -m PyInstaller "..\\profiles\\nightreign-enhanced.py" --name "ELDEN RING NIGHTREIGN ENHANCED" --onefile --distpath ".\\" --icon "..\\resources\\icons\\nightreign-enhanced.ico" --noconsole
+python -m PyInstaller "..\\profiles\\nightreign-chillreign.py" --name "ELDEN RING NIGHTREIGN CHILLREIGN" --onefile --distpath ".\\" --icon "..\\resources\\icons\\nightreign-chillreign.ico" --noconsole
