@@ -7,7 +7,7 @@ savefile = "ER0000.enhanced"
 game = "eldenring"
 
 [[natives]]
-path = '../mods/eldenring/seamless-coop/nrsc.dll'
+path = "../mods/eldenring/seamless-coop/ersc.dll"
 load_early=true
 
 [[natives]]
